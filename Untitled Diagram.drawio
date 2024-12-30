@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SF4kRPr450qY_TnCbRD_-36" value="ModelOne&lt;div&gt;ASVMODELONE&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-36" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ModelOne&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ASVMODELONE&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;fillColor=#000000;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SF4kRPr450qY_TnCbRD_-1" value="Associate Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,16 +28,16 @@
         <mxCell id="SF4kRPr450qY_TnCbRD_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SF4kRPr450qY_TnCbRD_-7" target="SF4kRPr450qY_TnCbRD_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-7" value="UX SERVICES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-7" value="UX SERVICES" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="400" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SF4kRPr450qY_TnCbRD_-8" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="138" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-10" value="API Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-10" value="API Services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-12" value="DATA STORE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-12" value="DATA STORE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99FF33;" vertex="1" parent="1">
           <mxGeometry x="425" y="340" width="75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SF4kRPr450qY_TnCbRD_-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SF4kRPr450qY_TnCbRD_-7">
@@ -58,22 +58,22 @@
         <mxCell id="SF4kRPr450qY_TnCbRD_-16" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-17" value="Chariot&lt;div&gt;ASVDIGITALCONTENTSERVICES&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-17" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Chariot&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ASVDIGITALCONTENTSERVICES&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="820" y="260" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-18" value="Chamber of Secrets&lt;div&gt;ASVCHAMBEROFSECRETS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-18" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Chamber of Secrets&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ASVCHAMBEROFSECRETS&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#050505, #ededed);" vertex="1" parent="1">
           <mxGeometry x="820" y="180" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-20" value="API Gateway Partner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-20" value="API Gateway Partner" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="650" y="190" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-22" value="Active Directory&lt;div&gt;ASVETOACTIVEDIRECTORY&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-22" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Active Directory&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ASVETOACTIVEDIRECTORY&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;gradientColor=default;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="820" y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-24" value="Vessel&lt;div&gt;ASVTEMPLATEEMAILSERVICE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-24" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Vessel&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ASVTEMPLATEEMAILSERVICE&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="820" y="340" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-25" value="One Lake&lt;div&gt;AWSDATALAKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-25" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;One Lake&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;AWSDATALAKE&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="820" y="420" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SF4kRPr450qY_TnCbRD_-26" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -118,8 +118,29 @@
             <mxPoint x="850" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SF4kRPr450qY_TnCbRD_-35" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SF4kRPr450qY_TnCbRD_-35" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="775" y="365" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SF4kRPr450qY_TnCbRD_-38" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="388" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SF4kRPr450qY_TnCbRD_-39" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;fillColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SF4kRPr450qY_TnCbRD_-41" value="Internal Business Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="575" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SF4kRPr450qY_TnCbRD_-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF33;" vertex="1" parent="1">
+          <mxGeometry x="120" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SF4kRPr450qY_TnCbRD_-44" value="Application Component in Context" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SF4kRPr450qY_TnCbRD_-46" value="API Gateway Partner" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="500" y="570" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SF4kRPr450qY_TnCbRD_-47" value="Green outline indicates a hyperlink" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="575" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
